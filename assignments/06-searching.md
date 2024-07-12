@@ -36,7 +36,7 @@
 - [x] [Reach a Number](https://leetcode.com/problems/reach-a-number/)
 - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 - [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-- [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
+- [x] [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
@@ -45,8 +45,8 @@
 - [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
-- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [x] [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
 - [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
 - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
