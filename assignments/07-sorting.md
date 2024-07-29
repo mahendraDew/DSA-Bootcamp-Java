@@ -38,12 +38,12 @@
 - [x] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [x] [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [x] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
-- [2Sum](https://leetcode.com/problems/two-sum/)
+- [x] [2Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
-- [3Sum](https://leetcode.com/problems/3sum/)
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-- [4Sum](https://leetcode.com/problems/4sum/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [x] [4Sum](https://leetcode.com/problems/4sum/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
