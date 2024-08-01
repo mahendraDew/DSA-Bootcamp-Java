@@ -51,8 +51,8 @@
 - [x] [Sort List](https://leetcode.com/problems/sort-list/)
 - [x] [Largest Number](https://leetcode.com/problems/largest-number/)
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [x] [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ## Hard
-- [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [x] [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
