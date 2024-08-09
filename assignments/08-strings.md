@@ -37,7 +37,7 @@
 - [x] [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
 - [x] [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
 - [x] [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
-- [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+- [x] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
 - [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
 - [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
