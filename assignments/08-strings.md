@@ -49,8 +49,8 @@
 - [x] [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 - [x] [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 - [x] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
-- [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
-- [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+- [x] [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
+- [x] [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
 ## Hard
 
